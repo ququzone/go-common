@@ -1,4 +1,4 @@
-package utils
+package slice
 
 // Contain ...
 func Contain(s []string, e string) bool {
